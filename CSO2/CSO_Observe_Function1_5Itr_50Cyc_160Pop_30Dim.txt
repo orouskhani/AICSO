@@ -1,0 +1,5 @@
+[Cycles : Iteration : Population Size : Dimension] [ 50 :    0 : 160 : 30] [Fitness : Time]: [	-9830.8778220385211171 ,	0.0059884500503540]
+[Cycles : Iteration : Population Size : Dimension] [ 50 :    1 : 160 : 30] [Fitness : Time]: [	-77510.2687933026172686 ,	0.0120161151885986]
+[Cycles : Iteration : Population Size : Dimension] [ 50 :    2 : 160 : 30] [Fitness : Time]: [	-84385.4620218493655557 ,	0.0181143426895142]
+[Cycles : Iteration : Population Size : Dimension] [ 50 :    3 : 160 : 30] [Fitness : Time]: [	-87280.3043081618088763 ,	0.0238814306259155]
+[Cycles : Iteration : Population Size : Dimension] [ 50 :    4 : 160 : 30] [Fitness : Time]: [	-89679.3534321522747632 ,	0.0290783262252808]

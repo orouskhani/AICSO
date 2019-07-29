@@ -1,0 +1,2 @@
+This is CSO With Inertia Matrix(W)
+So the Velocity EQ changed to : v=wv+rc(gbest-x)
